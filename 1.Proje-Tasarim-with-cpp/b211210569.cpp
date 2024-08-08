@@ -1,7 +1,7 @@
 /*
 
-//				isim:		Muhamad iyd
-//				ogr NO:		b211210569
+//				isim:		Muhammed Iyd
+//				Ogr-NO:		b211210569
 //				grup:		1-B
 //				konu:		Proje
 //
