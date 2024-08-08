@@ -1,0 +1,19 @@
+malzeme1
+biber 13 30
+domates 144 440
+yumurta 14 4
+malzeme2
+domates 144 440
+patates 16 6
+et 13 130
+malzeme3
+patates 16 6
+biber 13 30
+et 13 130
+malzeme4
+yumurta 14 4
+patates 16 6
+domates 144 440
+malzeme6
+yumurta 
+et 

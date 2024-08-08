@@ -1,0 +1,5 @@
+biber 13 300
+yumurta 14 350
+domates 144 435
+patates 16 600
+et 13 130

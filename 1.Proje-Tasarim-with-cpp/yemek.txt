@@ -1,0 +1,3 @@
+omlet malzeme1 171 300
+musakka malzeme2 173 260
+patatesOturtma malzeme3 42 250
